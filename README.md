@@ -2,8 +2,9 @@
 Appentus Flutter Test Answer
 
 
-
-The Above project code has a login and registration screen , after user succesfully register or logged in to the app. He/she will be display a list of cards having name and image in Grid View with custom height and Width.
+Task Overview -
+ 
+The Above project code has a login and registration screen , after user succesfully register or logged in to the app. He/she will see a list of cards having name and image in Grid View.
 
 
 
